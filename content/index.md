@@ -5,7 +5,7 @@ My name is Chris and this is my digital garden! Please make yourself at home ✨
 
 Here, I plant and nurture seeds of thought born from escapades through philosophy, science, and pretty much any lens that allows me to understand the foundations of our human experience.
 
-This isn't a typical blog or publication, but a laboratory for thought, a workshop for realization, a place to play with how I see and experience the world. Hopefully, I find something new along the way, but finding things isn't the goal.
+This isn't a typical blog or publication, but a laboratory for thought, a workshop for realization, a place to play with how I see and experience the world. Hopefully, I find something new along the way, and perhaps you'll discover something meaningful for your own journey, too. After all, the joy is in the exploration itself.
 
 My intention with this space is to "learn out loud." Rather than wait weeks or months to create something more polished (i.e. a social media or blog post), I wanted a place to share notes, ideas, reflections, and discoveries no matter how complete they might be.
 
@@ -23,6 +23,9 @@ Chris the Alchemist
 
 You may peruse this garden in any way you'd like, though I've left a few starting points here to get you going. 
 
-Happy exploring!
+### Philosophy
+- [[Human Design]] (coming soon)
+- [[The Gene Keys]] (coming soon)
 
-[[The Gene Keys]]
+Thanks for being here, friend! Happy exploring! ☀️
+
