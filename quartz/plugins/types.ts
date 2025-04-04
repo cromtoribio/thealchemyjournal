@@ -1,7 +1,7 @@
 import { PluggableList } from "unified"
 import { StaticResources } from "../util/resources"
 import { ProcessedContent } from "./vfile"
-import { QuartzComponent } from "../components/types"
+import { QuartzComponent, QuartzComponentProps } from "../components/types"
 import { FilePath } from "../util/path"
 import { BuildCtx } from "../util/ctx"
 import { VFile } from "vfile"
@@ -62,4 +62,9 @@ export type QuartzEmitterPluginInstance = {
    */
   getQuartzComponents?: (ctx: BuildCtx) => QuartzComponent[]
   externalResources?: ExternalResourcesFn
+}
+
+export type ConditionalRenderConfig = {
+  component: QuartzComponent
+  condition: (props: QuartzComponentProps) => boolean
 }

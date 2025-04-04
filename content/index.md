@@ -1,21 +1,28 @@
 ---
-title: Introduction to The Alchemy Journal 🌹
+title: Welcome to the Garden
 ---
-Hello there friend, my name is Chris, welcome to my digital garden! 🤸🏽‍♂️✨ 
+My name is Chris and this is my digital garden! Please make yourself at home ✨🌱
 
-This is a special place for me to keep track of, and nurture seeds of thought born from my intellectual pursuits, including, but not limited to coding, design, and the human experience. 
+Here, I plant and nurture seeds of thought born from escapades through philosophy, science, and pretty much any lens that allows me to understand the foundations of our human experience.
 
-I have a few intentions for this space, but the main one is to expose some of my learning process to the public, or simply, to "learn out loud." 
+This isn't a typical blog or publication, but a laboratory for thought, a workshop for realization, a place to play with how I see and experience the world. Hopefully, I find something new along the way, but finding things isn't the goal.
 
-Here, I get to put out some level of value without waiting weeks or months to polish them into something more "sharable" — things like Newsletters, YouTube videos, or other Social Media things. I intend to get to those, eventually, but for now, I wanted somewhere I can share my thoughts & learnings, even if they are somewhat raw and unfiltered.
+My intention with this space is to "learn out loud." Rather than wait weeks or months to create something more polished (i.e. a social media or blog post), I wanted a place to share notes, ideas, reflections, and discoveries no matter how complete they might be.
 
-The rest, I'll figure out as I go and I hope you stick around to find out ❤️
+Ideally, this garden becomes a forest of thought, and a compendium of our wildest and most extraordinary ideas.
 
-If you notice something that needs some extra attention, or if you want to chat with me about something you find, shoot me a message on [Instagram](https://www.instagram.com/christoribio), or [send me an email](mailto:hello@christoribio.com)! 
+If you happen to see anything that needs my attention, or if you'd like to share your take on something you find here, don't hesitate to reach out!
 
-I'd love to hear from you 🌹
+You can catch me on [Instagram](https://www.instagram.com/christoribio), or [shoot me an email!](mailto:hello@christoribio.com)
+Either way, I'd love to hear from you 🌹
 
-# Exploring the Garden
+With Love, 
+Chris the Alchemist
 
-There are many paths through this garden, and you may explore to your heart's content. Here are a few places to start, but by all means, follow your curiosity 😇
+## Exploring the Garden
 
+You may peruse this garden in any way you'd like, though I've left a few starting points here to get you going. 
+
+Happy exploring!
+
+[[The Gene Keys]]
