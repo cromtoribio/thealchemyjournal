@@ -10,7 +10,6 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
       Email: "mailto:hello@christoribio.com",
-      Portfolio: "https://cromtoribio.github.io/3d-portfolio",
     },
   }),
 }
