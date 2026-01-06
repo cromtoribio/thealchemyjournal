@@ -3,9 +3,9 @@ title: Welcome to the Garden
 ---
 My name is Chris and this is my digital garden! Please make yourself at home ✨🌱
 
-Here, I plant and nurture seeds of thought born from escapades through philosophy, science, and pretty much any lens that allows me to explore the foundations of our human experience. From those foundations, I hope to find new ways that we can intentionally design better personal and interpersonal experiences. 
+Here, I plant and nurture seeds from my journey through philosophy, science, and pretty much any lens that allows me to explore the foundations of our human experience. From those foundations, I hope to find new ways that we can intentionally design better personal and interpersonal experiences. 
 
-This isn't a typical blog or publication, but a laboratory for thought, a workshop for dreams, a place to play with how I see and experience the world. Hopefully, I find something exciting along the way — perhaps you'll discover something meaningful for your own journey — though the adventure is more than enough for me!
+This isn't a typical blog or publication, but a laboratory for thought, a workshop for dreams, a place to play with different ways of seeing and experiencing the world. 
 
 My intention with this space is to "learn out loud." Rather than wait weeks or months to create something more polished (i.e. a social media post or newsletter), I wanted a place to share notes, ideas, reflections, and discoveries no matter how complete they might be.
 
