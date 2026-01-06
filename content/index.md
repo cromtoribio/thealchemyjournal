@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Garden
+title: The Alchxmy Journal
 ---
 My name is Chris and this is my digital garden! Please make yourself at home ✨🌱
 
